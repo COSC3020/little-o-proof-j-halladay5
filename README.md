@@ -31,3 +31,5 @@ Proved by self implication / propositional logic: $f(n) \in o(g(n)) \implies f(n
 If f(n) is less than c g(n), then f(n) will always be <= g(n) because if somethings less than, than those values also belong to less than or equal to. Additionally if for all constant values
 the definition holds true, then that means that there will exists a value.
 
+
+Sources used: https://www.baeldung.com/cs/big-o-vs-little-o-notation : To identify differences between little and big o
